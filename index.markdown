@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: post
+layout: default
 ---
 ### Michele Costabile
 Hello, welcome to my home on Github. I am a seasoned developer, who started in C in 1982 and had a part in the Olivetti line of unix servers. My contributions include a new runtime support system for a COBOL compiler and a few device drivers.
