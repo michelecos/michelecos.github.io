@@ -2,7 +2,8 @@
 layout: post
 title:  "Fisica e eternità"
 date:   2021-10-24 12:02:24 +0200
-categories: fisica filosofia
+categories: filosofia
+tags: fisica filosofia
 ---
 In una discussione su Twitter, la domanda era: secondo voi esiste vita oltre la morte? Io ho risposto "da fisico, ti posso assicurare
 che i tutoi atomi vivranno indisturbati fino alla prossima esplosione stellare, e anche oltre, ma con qualche sconquasso".

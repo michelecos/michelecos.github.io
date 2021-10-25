@@ -1,0 +1,15 @@
+---
+layout: post
+title: Una nuova casa
+---
+### una nuova casa
+c'e stato un tempo in cui credevo di dovere avere un blog e di doverlo aggiornare di frequente.
+Scrivevo su PC Professionale, avevo una colonna fissa su Java e gli ambienti e i linguaggi di programmazione in generale.
+Mi piaceva parecchio e mi ha fruttato dei viaggi negli USA, per partecipare a convegni e dimostrazioni di prodotto, per esempio
+il lancio di Windows 2000, nel 1999.
+
+Naturalmente, un giornalista con un seguito deve avere un blog, aggiornarlo di frequente e osservare le statistiche di accesso: le
+provenienze, le parole chiave, le chiavi dii ricerca che portano da Google. A proposito, Google forse era ancora relativamente giovane
+a quell'epoca, ma sto divagando.
+
+[segue domani]
