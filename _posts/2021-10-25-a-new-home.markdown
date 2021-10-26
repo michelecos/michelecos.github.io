@@ -2,14 +2,20 @@
 layout: post
 title: Una nuova casa
 ---
-### una nuova casa
+## una nuova casa
 c'e stato un tempo in cui credevo di dovere avere un blog e di doverlo aggiornare di frequente.
 Scrivevo su PC Professionale, avevo una colonna fissa su Java e gli ambienti e i linguaggi di programmazione in generale.
 Mi piaceva parecchio e mi ha fruttato dei viaggi negli USA, per partecipare a convegni e dimostrazioni di prodotto, per esempio
 il lancio di Windows 2000, nel 1999.
 
 Naturalmente, un giornalista con un seguito deve avere un blog, aggiornarlo di frequente e osservare le statistiche di accesso: le
-provenienze, le parole chiave, le chiavi dii ricerca che portano da Google. A proposito, Google forse era ancora relativamente giovane
-a quell'epoca, ma sto divagando.
+provenienze, le parole chiave, le chiavi di ricerca che portano da Google. A proposito, Google forse era ancora relativamente giovane
+a quell'epoca e ancora ci si poteva ricordare di Altavista o Excite, ma sto divagando.
+
+### Il proxybar
+
+Insomma, l'esigenza comunicativa non si poteva scansare; ne nacque un blog con un nome nerdy: [il ProxyBar](https://www.proxybar.net). A quell'epoca configurare il proprio proxy secondo le specifiche del fornitore d'accesso era una abilità di primaria importanza e la canzone di Vasco Rossi in cui si parla di Roxy Bar era un ricordo fresco. Il nome era molto carino, ma la destinazione non era chiara. Si parlava di cose internet, di programmazione, ma anche di musica e - ahime - di politica.
+
+Certo, era il tempo in cui ci si sentiva in dovere di pubblicare delle opinioni in articoli ben articolati e in blog ben bloggati. Alcuni lo fanno ancora. I più, di questi tempi, condensano il loro editoriale in duecento battute e lo affidano a Twitter, spesso ingaggiando battaglie spietate con opinioni scritte su coriandoli. Un altro gioco che sta mostrando la corda per tutti.
 
 [segue domani]
