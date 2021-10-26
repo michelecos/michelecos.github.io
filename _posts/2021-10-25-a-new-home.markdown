@@ -16,6 +16,12 @@ a quell'epoca e ancora ci si poteva ricordare di Altavista o Excite, ma sto diva
 
 Insomma, l'esigenza comunicativa non si poteva scansare; ne nacque un blog con un nome nerdy: [il ProxyBar](https://www.proxybar.net). A quell'epoca configurare il proprio proxy secondo le specifiche del fornitore d'accesso era una abilità di primaria importanza e la canzone di Vasco Rossi in cui si parla di Roxy Bar era un ricordo fresco. Il nome era molto carino, ma la destinazione non era chiara. Si parlava di cose internet, di programmazione, ma anche di musica e - ahime - di politica.
 
-Certo, era il tempo in cui ci si sentiva in dovere di pubblicare delle opinioni in articoli ben articolati e in blog ben bloggati. Alcuni lo fanno ancora. I più, di questi tempi, condensano il loro editoriale in duecento battute e lo affidano a Twitter, spesso ingaggiando battaglie spietate con opinioni scritte su coriandoli. Un altro gioco che sta mostrando la corda per tutti.
+Certo, era il tempo in cui ci si sentiva in dovere di pubblicare delle opinioni in articoli ben articolati e in blog ben bloggati. Alcuni lo fanno ancora. I più, di questi tempi, condensano il loro editoriale in duecento battute e lo affidano a Twitter, spesso ingaggiando battaglie spietate con opinioni scritte su coriandoli. Un altro gioco che sta mostrando la corda per tutti per il vantaggio competitivo che dà a chi ha solo un insulto da gridare, rispetto a chi ha un'opinione da argomentare.
+
+Quindi, ci si ingegnava per trovare piattaforme di pubblicazione, server in hosting. E prova Drupal, prova Wordpress, prova PHP Nuke, ma soprattutto prova imbarazzo e fastidio per la rozzezza del linguaggio, a cui fa da contraltare il barocchismo delle architetture e la ricchezza di *configurabilità di cui non hai mai pensato di avere bisogno, ma ti devi occupare*. Il tutto unito alla necessità di un dabase SQL tanto per iniziare.
+
+Oltre a questo, i marchingegno diabolici per avere le statistiche Google sugli accessi, le pagine più calde, le keyword più cliccate, le parole chiave più cercate, con l'ansia del negoziante che è sulla porta ad aspettare i clienti e a interrogarsi se la vetrina è abbastanza attrattiva.
+
+#### I siti precotti
 
 [segue domani]
