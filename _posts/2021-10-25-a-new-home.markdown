@@ -12,16 +12,34 @@ Naturalmente, un giornalista con un seguito deve avere un blog, aggiornarlo di f
 provenienze, le parole chiave, le chiavi di ricerca che portano da Google. A proposito, Google forse era ancora relativamente giovane
 a quell'epoca e ancora ci si poteva ricordare di Altavista o Excite, ma sto divagando.
 
-### Il proxybar
+### il proxybar
 
 Insomma, l'esigenza comunicativa non si poteva scansare; ne nacque un blog con un nome nerdy: [il ProxyBar](https://www.proxybar.net). A quell'epoca configurare il proprio proxy secondo le specifiche del fornitore d'accesso era una abilità di primaria importanza e la canzone di Vasco Rossi in cui si parla di Roxy Bar era un ricordo fresco. Il nome era molto carino, ma la destinazione non era chiara. Si parlava di cose internet, di programmazione, ma anche di musica e - ahime - di politica.
 
 Certo, era il tempo in cui ci si sentiva in dovere di pubblicare delle opinioni in articoli ben articolati e in blog ben bloggati. Alcuni lo fanno ancora. I più, di questi tempi, condensano il loro editoriale in duecento battute e lo affidano a Twitter, spesso ingaggiando battaglie spietate con opinioni scritte su coriandoli. Un altro gioco che sta mostrando la corda per tutti per il vantaggio competitivo che dà a chi ha solo un insulto da gridare, rispetto a chi ha un'opinione da argomentare.
 
+### le piattaforme
+
 Quindi, ci si ingegnava per trovare piattaforme di pubblicazione, server in hosting. E prova Drupal, prova Wordpress, prova PHP Nuke, ma soprattutto prova imbarazzo e fastidio per la rozzezza del linguaggio, a cui fa da contraltare il barocchismo delle architetture e la ricchezza di *configurabilità di cui non hai mai pensato di avere bisogno, ma ti devi occupare*. Il tutto unito alla necessità di un dabase SQL tanto per iniziare.
 
-Oltre a questo, i marchingegni diabolici per avere le statistiche Google sugli accessi, le pagine più calde, le keyword più cliccate, le parole chiave più cercate, con l'ansia del negoziante che è sulla porta ad aspettare i clienti e a interrogarsi se la vetrina è abbastanza attrattiva.
+Non parliamo delle piattaforme defunte. Un caso particolarmente doloroso è stato quello di una signora che aveva una chiara idea commerciale: mettere la sua esperienza di avvocato del lavoro al servizio del pubblico. Il suo sito era una miniera di consigli per chi lavora e ha i problemi più disparati da risolvere, dall'assistenza per i figli, gli assegni familiari e ogni genere di domanda. Il sito doveva fare anche da traino per lo studio di consulenza. Tutto molto bello, tranne che la software house che la seguiva aveva basato lo sviluppo su un fork di PHP Nuke, chiamato MaxDev. Il progetto di business della signora si è scontrato con l'iceberg costituito da un software farraginoso, non finito, instabile, senza una comunità alle spalle, impossibile da seguire, complicato da modificare.
 
-#### I siti precotti
+Le alternative alla fine erano passare su una piattaforma presumibilmente più leggera, come Wordpress, ma i tempi di sviluppo, e quindi i costi, erano tremendi. Di fatto, questa è stata la fine del progetto, non un errore di pianificazione di business, ma la scelta di un partner e una piattaforma improponibili e inaffidabili. [Il sito è ancora lì](http://www.dottorlex.it), una rovina a lato strada su Internet, con una home page che si riduce a un pezzo di PHP; un relitto.
 
-[segue domani]
+Oltre alla complessità di gestione delle piattaforme, ho sempre avuto terrore del fastello di template con i quali bisogna comunque misurarsi, se si desidera  infilare negli header il codice per avere le statistiche Google sugli accessi e arrovellarsi sulle pagine più calde, le keyword più cliccate, le parole chiave più cercate, con la sollecitudine del negoziante, sulla porta ad aspettare i clienti, che osserva se la vetrina è abbastanza attrattiva.
+
+#### i siti precotti
+
+Chi è interessato soprattutto a scrivere, dopo il periodo *trovi un hosting, porti là il tuo server, carichi la piattaforma e inizializzi il database, poi apri il comodo pannello di controllo e inizi a occuparti di tutto meno che di scrivere*, fuggì a gambe levate dalle soluzioni tecnologiche optando per quei servizi online che consentivano di pubblicare del contenuto senza occuparsi troppo del non necessario.
+
+Il più vecchio che viene in mente è *Geocities*, seguito da *Blogger.com*, successivamente *Blogspot*. [Il mio blog su Blogspot](https://proxybar.blogspot.com/) è ancora vivo, nella gloria del suo tema impaginato con tabelle, e con i suoi post dal 2001 al 2008; storia romana.
+
+Dopo *Blogger*, arrivarono diverse altre proposte. Mi ricordo *Tumblr*, che [ancora ospita una prova di stampa di un ProxyBar](https://proxybar-blog.tumblr.com/). Tumblr offriva un'estensione del browser per pubblicare rapidamente una citazione da una pagina, selezionando il testo, aggiungendo un commento. Sembrava il tool di elezione per chi scopre le cose e le racconta agli altri.
+
+Sfruttando la possibilità di fare qualcosa del genere, un altro sito [*del.icio.us*](https://del.icio.us/) offriva la possibilità di essere usato sia come alternativa evoluta ai segnalibri, sia come piattaforma per quello che iniziava ad essere chiamato microblogging. Non la pubblicazione di articoli, ma la condivisione di cose trovate in giro. Da notare che del.icio.us sfruttava in modo originale un dominio geografico (.us) e un nome facile da ricordare, ma non così tanto, se finì per avere un alias più semplice, come *delicious.com*.
+
+L'idea del microblogging prese una strada diversa con *Stumbledupon*, che sfruttava una comunità di persone che pubblicavano una cosa interessante su cui erano inciampate, per aggregare un contenitore di cose interessanti trovate in giro. L'idea era: invece di navigare i siti di riferimento in cui trovi le notizie del giorno, attaccati a questa fonte di cose interessanti e buffe che migliaia di altri navigatori hanno trovato in giro, in modo da perdere la giornata prima di renderti conto di qual era il motivo per cui avevi aperto il browser all'inizio. Insomma, quello che oggi è il posto occupato da Twitter o da Instagram. L'idea era bella e Stumbledupon cercò di sfruttare meglio i suoi lettori/curatori, cercando di catalogare i link, offrendo ai visitatori la possibilità di navigare per categorie. L'idea, però, non è riuscita fino in fondo e Sumbledupon ha chiuso. [Il sito esiste ancora](http://stumbledupon.com/), ma non il contenuto, ripiazzato da citazioni scelte a caso.
+
+### l'evoluzione dei siti di pubblicazione
+
+[continua domani]
