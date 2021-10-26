@@ -20,7 +20,7 @@ Certo, era il tempo in cui ci si sentiva in dovere di pubblicare delle opinioni 
 
 Quindi, ci si ingegnava per trovare piattaforme di pubblicazione, server in hosting. E prova Drupal, prova Wordpress, prova PHP Nuke, ma soprattutto prova imbarazzo e fastidio per la rozzezza del linguaggio, a cui fa da contraltare il barocchismo delle architetture e la ricchezza di *configurabilità di cui non hai mai pensato di avere bisogno, ma ti devi occupare*. Il tutto unito alla necessità di un dabase SQL tanto per iniziare.
 
-Oltre a questo, i marchingegno diabolici per avere le statistiche Google sugli accessi, le pagine più calde, le keyword più cliccate, le parole chiave più cercate, con l'ansia del negoziante che è sulla porta ad aspettare i clienti e a interrogarsi se la vetrina è abbastanza attrattiva.
+Oltre a questo, i marchingegni diabolici per avere le statistiche Google sugli accessi, le pagine più calde, le keyword più cliccate, le parole chiave più cercate, con l'ansia del negoziante che è sulla porta ad aspettare i clienti e a interrogarsi se la vetrina è abbastanza attrattiva.
 
 #### I siti precotti
 
