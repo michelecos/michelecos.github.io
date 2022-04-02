@@ -29,7 +29,7 @@ This project was meant to be light and simple, making the most of the new ES6 sy
 
 It made its way into at least three working apps based on Cordova. It is not meant as a tool for writing web pages, since templates and data are all in JavaScript, but it served well to create apps.
 
-As of today, I would go for progressive web apps, Sinnce html has grown and operating system support is much bettere.
+As of today, I would go for progressive web apps, Sinnce html has grown and operating system support is much better.
 
 ## Articoli
 
